@@ -72,10 +72,10 @@
                         <div class="align-container">
                             <div class="align-container__item slider_content">
                                 <div class="promo-slider__wrapper-1">
-                                    <h5 class="">We are able to provide!</h5>
+                                    <h5 class="">We provide!</h5>
                                 </div>
                                 <div class="promo-slider__wrapper-2">
-                                    <h3 class="">Best Medical Service Around the World</h3>
+                                    <h3 class="">Quality Medical Services Of Global Standards</h3>
                                 </div>
                                 <div class="promo-slider__wrapper-3">
                                     <a class="theme_btn" href="#" data-toggle="modal" data-target="#exampleModalCenter">Make An Appointment</a>
@@ -194,7 +194,7 @@
                         </svg>
                     </div>
                     <h2>Qualified Doctors</h2>
-                    <p>Lorem ipsum dolor sit amet consectet adipis sed do eiusmod tempor inc ididunt utid labore.</p>
+                    <p>Highly qualified and vastly experienced medical professionals to attend to all your healthcare needs.</p>
                 </div>
             </div>
             <div class="col-lg-4">
@@ -203,7 +203,7 @@
                         <svg enable-background="new 0 0 511.619 511.619" viewBox="0 0 511.619 511.619" xmlns="http://www.w3.org/2000/svg"><g><path d="m504.12 423.958c-.003 0-.006 0-.009 0l-28.68.033-.031-24.191c-.005-4.139-3.362-7.491-7.5-7.491-.003 0-.006 0-.009 0-4.143.005-7.496 3.367-7.491 7.509l.031 24.19-112.203.13-.111-96.11 77.654-.09c3.963-.004 7.686-1.551 10.484-4.355s4.336-6.531 4.331-10.493l-.09-78.359c-.005-3.962-1.552-7.686-4.356-10.483-2.8-2.793-6.519-4.331-10.475-4.331-.006 0-.012 0-.019 0l-77.655.089-.036-31.016 112.203-.128.201 176.954c.005 4.14 3.361 7.492 7.5 7.492h.009c4.143-.005 7.497-3.366 7.492-7.508l-.201-176.955 14.762-.017c11.396-.016 20.654-9.298 20.639-20.688l-.02-19.672c-.015-11.393-9.286-20.65-20.669-20.65-.009 0-.02 0-.028 0l-48.04.05c-4.142.004-7.497 3.366-7.492 7.508.004 4.14 3.361 7.492 7.5 7.492h.008l48.042-.05h.007c3.124 0 5.668 2.542 5.672 5.668l.02 19.672c.004 3.122-2.535 5.666-5.658 5.67l-141.964.161-.036-31.01 59.917-.071c4.142-.005 7.496-3.367 7.491-7.509-.005-4.139-3.362-7.491-7.5-7.491-.003 0-.006 0-.009 0l-59.916.071-.041-35.216c-.006-5.53-2.166-10.727-6.081-14.632-3.909-3.9-9.101-6.046-14.622-6.046-.008 0-.017 0-.024 0l-143.451.166c-5.53.006-10.727 2.166-14.632 6.081s-6.053 9.116-6.046 14.646l.041 35.217-141.967.165c-5.521.006-10.709 2.164-14.608 6.076-3.896 3.909-6.038 9.102-6.031 14.621l.022 19.675c.006 5.52 2.162 10.707 6.068 14.604 3.901 3.892 9.083 6.034 14.593 6.034h.026l14.847-.017v22.456c0 4.142 3.358 7.5 7.5 7.5s7.5-3.358 7.5-7.5v-22.474l112.119-.13.036 31.014-77.65.09c-3.963.004-7.686 1.551-10.484 4.355s-4.336 6.531-4.331 10.494l.09 78.359c.005 3.962 1.552 7.686 4.356 10.483 2.8 2.793 6.519 4.331 10.475 4.331h.019l77.651-.089.111 96.11-112.391.13v-178.672c0-4.142-3.358-7.5-7.5-7.5s-7.5 3.358-7.5 7.5v178.69l-28.488.033c-4.143.005-7.497 3.367-7.492 7.509.005 4.139 3.361 7.491 7.5 7.491h.009l496.619-.575c4.142-.005 7.496-3.367 7.491-7.509-.005-4.138-3.361-7.491-7.499-7.491zm-78.625-189.041.09 78.022-77.486.09-.09-78.022zm-404.38-60.546c-.002 0-.004 0-.007 0-1.511 0-2.931-.587-4-1.653-1.07-1.068-1.661-2.489-1.663-4.003l-.022-19.675c-.002-1.516.586-2.941 1.656-4.015 1.068-1.072 2.489-1.663 4.001-1.665l141.966-.164.036 31.011zm64.645 138.962-.09-78.022 77.482-.09.09 78.022zm92.227-220.372c-.002-1.523.59-2.956 1.666-4.034s2.507-1.673 4.03-1.675l143.451-.166h.007c3.141 0 5.699 2.554 5.703 5.696l.383 331.375-18.744.022-.153-132.263c-.007-6.323-2.435-12.271-6.835-16.749-4.434-4.511-10.334-6.994-16.618-6.994-.009 0-.019 0-.028 0l-70.459.082c-6.294.007-12.2 2.505-16.629 7.033-4.39 4.488-6.804 10.441-6.796 16.765l.153 132.263-18.748.022zm33.978 199.072c-.003-2.372.892-4.595 2.519-6.258 1.588-1.624 3.692-2.52 5.924-2.522l70.459-.082h.01c2.228 0 4.33.891 5.919 2.508 1.631 1.66 2.531 3.88 2.534 6.252l.153 132.263-87.365.101z"/><path d="m207.012 200.158h.018l25.008-.029.029 25.008c.009 7.715 6.289 13.985 14 13.985h.018l19.004-.022c3.74-.004 7.255-1.464 9.896-4.112 2.642-2.647 4.094-6.166 4.089-9.906l-.029-25.008 25.007-.029c7.72-.008 13.994-6.296 13.986-14.018l-.022-19.005c-.004-3.74-1.465-7.254-4.113-9.896-2.644-2.638-6.154-4.089-9.888-4.089-.005 0-.012 0-.018 0l-25.008.029-.029-25.007c-.004-3.74-1.464-7.254-4.112-9.896-2.644-2.638-6.155-4.09-9.888-4.09-.005 0-.012 0-.018 0l-19.005.022c-3.74.004-7.254 1.465-9.896 4.113-2.641 2.647-4.093 6.166-4.089 9.905l.029 25.008-25.007.029c-3.74.004-7.255 1.464-9.896 4.112-2.642 2.648-4.094 6.166-4.089 9.906l.022 19.004c.004 3.74 1.464 7.255 4.112 9.896 2.645 2.639 6.156 4.09 9.889 4.09zm32.489-32.045c4.142-.005 7.496-3.367 7.491-7.509l-.037-31.509 17.007-.02.037 31.51c0 .259.014.514.04.766.388 3.779 3.58 6.725 7.46 6.725h.009l31.509-.037.02 17.007-31.51.037c-4.142.005-7.496 3.367-7.491 7.509l.037 31.509-17.008.02-.037-31.51c-.005-4.139-3.361-7.491-7.5-7.491-.002 0-.006 0-.009 0l-31.509.037-.02-17.007z"/></g></svg>
                     </div>
                     <h2>Opens From 8am-8pm</h2>
-                    <p>Lorem ipsum dolor sit amet consectet adipis sed do eiusmod tempor inc ididunt utid labore.</p>
+                    <p>Take advantage of our convenient and easily accessible working times!</p>
                 </div>
             </div>
             <div class="col-lg-4">
@@ -211,8 +211,8 @@
                     <div class="iconbox-icon red-box">
                         <svg enable-background="new 0 0 512 512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><g><g><g><path d="m256 38.397c5.522 0 10-4.477 10-10v-18.397c0-5.523-4.478-10-10-10-5.523 0-10 4.477-10 10v18.397c0 5.523 4.477 10 10 10z"/><path d="m342.609 62.764c1.556.88 3.246 1.298 4.915 1.298 3.486 0 6.874-1.827 8.713-5.079l9.655-17.069c2.719-4.807 1.026-10.908-3.78-13.628-4.806-2.718-10.909-1.027-13.628 3.781l-9.655 17.069c-2.719 4.807-1.026 10.908 3.78 13.628z"/><path d="m409.789 128.753c1.634 0 3.292-.401 4.823-1.247l18.457-10.187c4.835-2.668 6.592-8.752 3.923-13.587-2.669-4.836-8.754-6.592-13.587-3.923l-18.457 10.187c-4.835 2.668-6.592 8.752-3.923 13.587 1.824 3.304 5.241 5.17 8.764 5.17z"/><path d="m455.027 199.147h-19.524c-5.522 0-10 4.477-10 10s4.478 10 10 10h19.524c5.522 0 10-4.477 10-10s-4.477-10-10-10z"/><path d="m155.763 58.983c1.84 3.252 5.227 5.079 8.713 5.079 1.668 0 3.359-.418 4.915-1.298 4.807-2.719 6.499-8.82 3.78-13.627l-9.655-17.069c-2.721-4.808-8.821-6.499-13.628-3.781-4.807 2.719-6.499 8.82-3.78 13.628z"/><path d="m78.931 117.319 18.457 10.187c1.532.846 3.188 1.247 4.823 1.247 3.523 0 6.94-1.867 8.764-5.17 2.669-4.835.912-10.918-3.923-13.587l-18.457-10.187c-4.835-2.668-10.918-.913-13.587 3.923-2.669 4.835-.912 10.918 3.923 13.587z"/><path d="m76.497 219.147c5.522 0 10-4.477 10-10s-4.478-10-10-10h-19.524c-5.522 0-10 4.477-10 10s4.478 10 10 10z"/><path d="m448.091 446.815h-24.502v-61.428c0-5.523-4.478-10-10-10h-20.807v-171.08c0-75.405-61.347-136.752-136.813-136.752-75.405 0-136.752 61.347-136.752 136.752v171.081h-20.806c-5.522 0-10 4.477-10 10v61.428h-24.502c-5.522 0-10 4.477-10 10v45.184c0 5.523 4.478 10 10 10h384.182c5.523 0 10-4.477 10-10v-45.185c0-5.522-4.478-10-10-10zm-308.873-242.508c0-64.377 52.375-116.752 116.813-116.752 64.377 0 116.752 52.374 116.752 116.752v171.081h-86.683v-94.379c14.468-9.871 23.231-26.229 23.231-44.02 0-29.396-23.924-53.311-53.331-53.311s-53.331 23.915-53.331 53.311c0 17.79 8.764 34.148 23.232 44.02v94.379h-86.683zm101.326 62.204c-11.025-5.781-17.875-17.093-17.875-29.522 0-18.368 14.952-33.311 33.331-33.311s33.331 14.943 33.331 33.311c0 12.43-6.85 23.742-17.875 29.522-3.293 1.727-5.356 5.138-5.356 8.856v100.02h-20.2v-100.02c0-3.719-2.063-7.13-5.356-8.856zm197.547 225.489h-364.182v-25.185h136.885c5.523 0 10-4.477 10-10s-4.477-10-10-10h-102.383v-51.428h295.178v51.428h-102.383c-5.522 0-10 4.477-10 10s4.478 10 10 10h136.885z"/><path d="m265.42 452.99c-1.61-3.865-5.581-6.387-9.771-6.16-4.161.225-7.816 3.098-9.029 7.08-1.212 3.978.243 8.471 3.606 10.938 3.284 2.409 7.764 2.601 11.23.458 4.105-2.538 5.822-7.856 3.964-12.316z"/></g></g></g></svg>
                     </div>
-                    <h2>Need Emergency</h2>
-                    <p>Lorem ipsum dolor sit amet consectet adipis sed do eiusmod tempor inc ididunt utid labore.</p>
+                    <h2>Emergency Aid</h2>
+                    <p>We are fully prepared to provide the best assistance for any medical emergency.</p>
                 </div>
             </div>
         </div>
@@ -224,16 +224,14 @@
     <div class="container">
         <h3>Who We Are</h3>
         <div class="heading-subtitle">
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. <br>Lorem Ipsum the industry's standard dummy text
+            Trained and empathetic professionals who are there to give you the best medical services at affordable costs.
         </div>
         <div class="row">
             <div class="col-lg-6">
                 <div class="content-side">
                     <h2>About Our Multi Speciality Clinic - Pathiripala</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidid unt labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamc laboris nisi ut aliquip. Commodo
-                    consequat.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidid unt labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamc laboris nisi ut aliquip. Commodo
-                    consequat.</p>
+                    <p>The Multi Speciality Clinic - Pathiripala was established with the aim of bringing international quality healthcare to every individual, thereby improving the overall well-being of a community. Excellence in patient care is achieved through high-quality and cost-effective healthcare services that address daily healthcare needs of you and your loved ones.</p>
+                    <p>As your health is our utmost priority, the leading multi-speciality clinic in Pathiripala offers a full suite of medical solutions including consultations with specialists, effective diagnostics, health check-ups, and pharmacy under one roof.</p>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -253,7 +251,7 @@
     <div class="container">
         <h3>Our Services</h3>
         <div class="heading-subtitle">
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. <br>Lorem Ipsum the industry's standard dummy text
+            We offer a complete range of healthcare solutions comprising specialist consultations, diagnostics, health check-ups, and pharmacy.
         </div>
         <div class="row">
             <div class="col-lg-3 col-md-6">
@@ -262,7 +260,7 @@
                         <img src="images/pathiripala/services/16.jpg" alt="">
                     </div>
                     <div class="hm_gdpt_item_title">
-                        <h4>Out Patient Consultation</h4>
+                        <h4>Outpatient Consultation</h4>
                     </div>
                 </a>
             </div>
@@ -272,7 +270,7 @@
                         <img src="images/pathiripala/services/8.jpg" alt="">
                     </div>
                     <div class="hm_gdpt_item_title">
-                        <h4>Specialist Outpatient Consultations</h4>
+                        <h4>Specialist Outpatient Consultation</h4>
                     </div>
                 </a>
             </div>
@@ -282,7 +280,7 @@
                         <img src="images/pathiripala/services/19.jpg" alt="">
                     </div>
                     <div class="hm_gdpt_item_title">
-                        <h4>In Patient Treatment</h4>
+                        <h4>Inpatient Treatment</h4>
                     </div>
                 </a>
             </div>
@@ -292,7 +290,7 @@
                         <img src="images/pathiripala/services/7.jpg" alt="">
                     </div>
                     <div class="hm_gdpt_item_title">
-                        <h4>Day Care Services</h4>
+                        <h4>Daycare Services</h4>
                     </div>
                 </a>
             </div>
@@ -322,7 +320,7 @@
                         <img src="images/pathiripala/services/18.jpg" alt="">
                     </div>
                     <div class="hm_gdpt_item_title">
-                        <h4>Family welfare services</h4>
+                        <h4>Family Welfare Services</h4>
                     </div>
                 </a>
             </div>
@@ -342,7 +340,7 @@
                         <img src="images/pathiripala/services/5.jpg" alt="">
                     </div>
                     <div class="hm_gdpt_item_title">
-                        <h4>Adolescent Health Care</h4>
+                        <h4>Adolescent Healthcare</h4>
                     </div>
                 </a>
             </div>
@@ -352,7 +350,7 @@
                         <img src="images/pathiripala/services/2.jpg" alt="">
                     </div>
                     <div class="hm_gdpt_item_title">
-                        <h4>Basic laboratory services</h4>
+                        <h4>Basic Laboratory Services</h4>
                     </div>
                 </a>
             </div>
@@ -440,7 +438,7 @@
                             </svg>  
                         </div>  
                         <strong>Emergency</strong> Medical Care 24/7</h2>
-                        <p class="text">With access to 24 hour emergency assistance, It’s so important you can continue to help others.</p>
+                        <p class="text">Rest assured with access to 24-hour assistance for medical emergencies.</p>
                         <p class="phone"><a href="tel:9847052455"> <i class="fa fa-phone"></i> 9847052455</a></p>
                     </div>
                 </div>
@@ -452,7 +450,7 @@
 <!-- Contact section -->
 <section class="clinic-contact">
     <div class="container">
-        <h3>Stay Connect With Us</h3>
+        <h3>Connect With Us</h3>
         <div class="row mt-100">
             <div class="col-lg-6">
                 <div class="contact-form">

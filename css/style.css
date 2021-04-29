@@ -76,6 +76,7 @@
     border: 1px solid #eaeaea;
     background-color: #fff;
     margin-bottom: 15px;
+    min-height: 328px;
 }
 
 .feature-clinic .iconbox-icon{
@@ -844,7 +845,7 @@
 }
 
 .treatments-area .news_itembox_content{
-    min-height: 240px;
+    min-height: 265px;
 }
 
 .full-banner-awesome{

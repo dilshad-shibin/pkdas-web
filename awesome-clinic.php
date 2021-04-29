@@ -118,8 +118,7 @@
                     <div class="logo-outer">
                         <img src="images/awesome/awesome-logo.png" alt="">
                     </div>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatem et accusantium vero perferendis inventore blanditiis.</p>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores itaque quo eum.</p>
+                    <p>Suffering from hair loss? Then you have come to the right place! With hair loss treatments based on scientific research and a proven track record of success, our work speaks for itself through our numerous satisfied customers.</p>
                     <ul>
                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                         <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
@@ -156,7 +155,7 @@
                             </div>
                             <div class="news_itembox_content">
                                 <h3><a href="#">Non Surgical Hair Replacement</a></h3>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, eaque!</p>
+                                <p>Minimally invasive solutions that guarantee the restoration of hair regardless of appearance and stage of hair loss.</p>
                                 
                             </div>
                         </div>
@@ -168,7 +167,7 @@
                             </div>
                             <div class="news_itembox_content">
                                 <h3><a href="#">Hair Regrowth Therapy-Stem Cell</a></h3>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, eaque!</p>
+                                <p>Treatments to reactivate hair follicle stem cells, thereby enhancing hair follicle growth, regeneration and development.</p>
                             </div>
                         </div>
                     </div><!-- item close -->
@@ -179,7 +178,7 @@
                             </div>
                             <div class="news_itembox_content">
                                 <h3><a href="#">Surgical Hair Transplantation</a></h3>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, eaque!</p>
+                                <p>State-of-the-art transplantation procedures for fuller and lustrous hair that lasts for a lifetime.</p>
                             </div>
                         </div>
                     </div><!-- item close -->
@@ -189,8 +188,8 @@
                                 <img src="images/awesome/services/skin-lightning.jpg">   
                             </div>
                             <div class="news_itembox_content">
-                                <h3><a href="#">Transformation Skin Lightening</a></h3>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, eaque!</p>
+                                <h3><a href="#">Transformation - Skin Lightening</a></h3>
+                                <p>Cosmetic treatment to improve skin lightness, reduce discolorations, and make skin colour uniform.</p>
                             </div>
                         </div>
                     </div><!-- item close -->
@@ -201,7 +200,7 @@
                             </div>
                             <div class="news_itembox_content">
                                 <h3><a href="#">Dandruff Treatment</a></h3>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, eaque!</p>
+                                <p>Get rid of dandruff with a variety of treatments to nourish your scalp.</p>
                             </div>
                         </div>
                     </div><!-- item close -->
@@ -211,8 +210,8 @@
                                 <img src="images/awesome/services/prp-treatment.jpg">   
                             </div>
                             <div class="news_itembox_content">
-                                <h3><a href="#">PRP Treatment-Skin & Hair </a></h3>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, eaque!</p>
+                                <h3><a href="#">PRP Treatment - Skin & Hair </a></h3>
+                                <p>Beneficial for a variety of hair loss scenarios. Among the most popular natural treatment options for hair fall.</p>
                             </div>
                         </div>
                     </div><!-- item close -->
@@ -223,7 +222,7 @@
                             </div>
                             <div class="news_itembox_content">
                                 <h3><a href="#">IPL Laser Treatment </a></h3>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, eaque!</p>
+                                <p>Improve the color and texture of your skin without surgery, as well as reduce unwanted hair and signs of aging.</p>
                             </div>
                         </div>
                     </div><!-- item close -->
@@ -233,8 +232,8 @@
                                 <img src="images/awesome/services/face-lift.jpg">   
                             </div>
                             <div class="news_itembox_content">
-                                <h3><a href="#">Face Lift Treatment </a></h3>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, eaque!</p>
+                                <h3><a href="#">Transformation- Facelift Treatment </a></h3>
+                                <p>Benefit from a fresher and more youthful facial appearance by correcting various signs of aging.</p>
                             </div>
                         </div>
                     </div><!-- item close -->
@@ -245,18 +244,7 @@
                             </div>
                             <div class="news_itembox_content">
                                 <h3><a href="#">Color Complexion Treatment </a></h3>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, eaque!</p>
-                            </div>
-                        </div>
-                    </div><!-- item close -->
-                    <div class="item">
-                        <div class="news_itembox">
-                            <div class="news_itembox_img">
-                                <img src="images/awesome/services/transformation-face.jpg">   
-                            </div>
-                            <div class="news_itembox_content">
-                                <h3><a href="#">Transformation Of Face Lift </a></h3>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, eaque!</p>
+                                <p>Treatments to help smooth out skin discoloration and hyperpigmentation, and to provide an even skin tone.</p>
                             </div>
                         </div>
                     </div><!-- item close -->
@@ -266,8 +254,8 @@
                                 <img src="images/awesome/services/cryolipolysis.jpg">   
                             </div>
                             <div class="news_itembox_content">
-                                <h3><a href="#">Cryo Lipolysis </a></h3>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, eaque!</p>
+                                <h3><a href="#">Cryolipolysis </a></h3>
+                                <p>Popular non-surgical fat reduction procedure that uses cold temperature to break down fat cells.</p>
                             </div>
                         </div>
                     </div><!-- item close -->
@@ -278,7 +266,7 @@
                             </div>
                             <div class="news_itembox_content">
                                 <h3><a href="#">Weight  Management </a></h3>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, eaque!</p>
+                                <p>Reach and maintain a healthy weight through focused training and positive lifestyle changes.</p>
                             </div>
                         </div>
                     </div><!-- item close -->
@@ -294,7 +282,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h3>Learn More About Our Technologies <br>Hair Transplant Surgery</h3>
+                <h3>Learn More About Our Technologies & <br>Hair Transplant Surgery</h3>
                 <a href="#" class="theme-btn" data-toggle="modal" data-target="#exampleModalCenter">Get a Quote</a>
             </div>
         </div>
@@ -389,7 +377,7 @@
 <!-- Contact section -->
 <section class="clinic-contact clinic-contact-awesome">
     <div class="container">
-        <h3>Stay Connect With Us</h3>
+        <h3>Connect With Us</h3>
         <div class="row mt-100">
             <div class="col-lg-6">
                 <div class="contact-form">
