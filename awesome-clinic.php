@@ -303,13 +303,13 @@
                         <div class="single-team text-center px-3 py-2 m-2">
                             <!-- Team Photo -->
                             <div class="team-photo mx-auto">
-                                <img src="images/awesome/testi/avatar-1.png" alt="">
+                                <img src="images/awesome/testi/1.png" alt="">
                             </div>
                             <!-- Team Content -->
                             <div class="team-content mt-2 mb-1">
-                                <h3 class="team-name mt-3 mb-2">Jonayed Hasan</h3>
-                                <h5 class="team-post mb-2">Co-Founder &amp; CEO</h5>
-                                <p class="team-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, ex quibusdam aliquid dicta a explicabo.</p>
+                                <h3 class="team-name mt-3 mb-3">Sunil Padmanabhan</h3>
+                                <!-- <h5 class="team-post mb-2">Co-Founder &amp; CEO</h5> -->
+                                <p class="team-description">One of the best private Medical College in Kerala, very good ambience neat and clean. They have technologically advanced equipments, experienced doctors and other staffs.Moderate medical expense, they are also associate with dozens of medical insurance company.</p>
                                
                             </div>
                         </div>
@@ -317,13 +317,13 @@
                         <div class="single-team text-center px-3 py-2 m-2">
                             <!-- Team Photo -->
                             <div class="team-photo mx-auto">
-                                <img src="images/awesome/testi/avatar-2.png" alt="">
+                                <img src="images/awesome/testi/2.png" alt="">
                             </div>
                             <!-- Team Content -->
                             <div class="team-content mt-2 mb-1">
-                                <h3 class="team-name mt-3 mb-2">Jassica William</h3>
-                                <h5 class="team-post mb-2">CTO - Confidence</h5>
-                                <p class="team-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, ex quibusdam aliquid dicta a explicabo.</p>
+                                <h3 class="team-name mt-3 mb-2">Sreedivya</h3>
+                                <!-- <h5 class="team-post mb-2">CTO - Confidence</h5> -->
+                                <p class="team-description">Recently my dad got hospitalized for gall bladder infection and it had to be removed . We got admitted in pk das . had the most wonderful experience . The doctors of surgical department were too good all the four pioneers ( Dr Josua , Dr Srikanth , Dr ajay , Dr Ramesh ) were there when ever we needed them.</p>
                                
                             </div>
                         </div>
@@ -331,13 +331,13 @@
                         <div class="single-team text-center px-3 py-2 m-2">
                             <!-- Team Photo -->
                             <div class="team-photo mx-auto">
-                                <img src="images/awesome/testi/avatar-3.png" alt="">
+                                <img src="images/awesome/testi/1.png" alt="">
                             </div>
                             <!-- Team Content -->
                             <div class="team-content mt-2 mb-1">
-                                <h3 class="team-name mt-3 mb-2">John Deo</h3>
-                                <h5 class="team-post mb-2">ISO Developer</h5>
-                                <p class="team-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, ex quibusdam aliquid dicta a explicabo.</p>
+                                <h3 class="team-name mt-3 mb-2">Haris Ismail</h3>
+                                <!-- <h5 class="team-post mb-2">ISO Developer</h5> -->
+                                <p class="team-description">My son got admitted 5 days back , Dr Ravikumar is incredible. Not only has he taken great care of my son health, but also he is lovely to speak with at every appointment and clear all our doubts . It’s rare to find a doctor that combines such personal touches and care for a patient as a person with outstanding quality.</p>
                                
                             </div>
                         </div>
@@ -345,13 +345,13 @@
                         <div class="single-team text-center px-3 py-2 m-2">
                             <!-- Team Photo -->
                             <div class="team-photo mx-auto">
-                                <img src="images/awesome/testi/avatar-4.png" alt="">
+                                <img src="images/awesome/testi/1.png" alt="">
                             </div>
                             <!-- Team Content -->
                             <div class="team-content mt-2 mb-1">
-                                <h3 class="team-name mt-3 mb-2">Johnson Smith</h3>
-                                <h5 class="team-post mb-2">CEO & Co-Founder</h5>
-                                <p class="team-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, ex quibusdam aliquid dicta a explicabo.</p>
+                                <h3 class="team-name mt-3 mb-2">Sudheesh P</h3>
+                                <!-- <h5 class="team-post mb-2">CEO & Co-Founder</h5> -->
+                                <p class="team-description">One of best hospital in PALAKKAD district near ottapalam town Vaniyamkulam.All type of treatments are available here 24 hour casuality available here staffs are friendly and proactive Syndicate bank and ATM are available inside the hospital compounds.Shoranur railway station distance is nearly 8 km from the hospital.</p>
                               
                             </div>
                         </div>
@@ -359,13 +359,13 @@
                         <div class="single-team text-center px-3 py-2 m-2">
                             <!-- Team Photo -->
                             <div class="team-photo mx-auto">
-                                <img src="images/awesome/testi/avatar-5.png" alt="">
+                                <img src="images/awesome/testi/1.png" alt="">
                             </div>
                             <!-- Team Content -->
                             <div class="team-content mt-2 mb-1">
-                                <h3 class="team-name mt-3 mb-2">Johnson Smith</h3>
-                                <h5 class="team-post mb-2">CEO- Samsung</h5>
-                                <p class="team-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, ex quibusdam aliquid dicta a explicabo.</p>
+                                <h3 class="team-name mt-3 mb-2">Karthik M</h3>
+                                <!-- <h5 class="team-post mb-2">CEO- Samsung</h5> -->
+                                <p class="team-description">Hi All!! I would strongly recommend Dr.Ravikumar, paediatrician!!!I very much appreciate everything you have done for my newborn baby!!! You list, you speak with such a gentle voice and takes so much of time to make us realise that you are there with us on each and every second, you act with skill and wisdom.</p>
                                 
                             </div>
                         </div>

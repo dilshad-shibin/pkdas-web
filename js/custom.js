@@ -172,7 +172,7 @@ if ($('#spdpt-slider').length) {
                 items: 3
             },
             992: {
-                items: 4
+                items: 3
             }
         }
     });
