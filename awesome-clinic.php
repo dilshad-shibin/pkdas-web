@@ -294,7 +294,7 @@
     <div class="container">
         <h3 class="head">What People Say</h3>
         <div class="heading-subtitle">
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. <br>Lorem Ipsum the industry's standard dummy text
+            Your satisfaction is our primary focus. Read what our satisfied customers have to say!
         </div>
         <div class="row">
                     <!-- Team Slider -->
@@ -307,9 +307,9 @@
                             </div>
                             <!-- Team Content -->
                             <div class="team-content mt-2 mb-1">
-                                <h3 class="team-name mt-3 mb-3">Sunil Padmanabhan</h3>
+                                <h3 class="team-name mt-3 mb-3">Vijay Thomas</h3>
                                 <!-- <h5 class="team-post mb-2">Co-Founder &amp; CEO</h5> -->
-                                <p class="team-description">One of the best private Medical College in Kerala, very good ambience neat and clean. They have technologically advanced equipments, experienced doctors and other staffs.Moderate medical expense, they are also associate with dozens of medical insurance company.</p>
+                                <p class="team-description">The hair transplant at Awesome clinic was suggested to me by a friend who had received treatment himself. The perfection of his new hair is what convinced me to visit. I have to say, I don’t regret it one bit. In fact, thanks to the doctors and staff, I now have thick hair which was only possible in my dreams!</p>
                                
                             </div>
                         </div>
@@ -321,37 +321,9 @@
                             </div>
                             <!-- Team Content -->
                             <div class="team-content mt-2 mb-1">
-                                <h3 class="team-name mt-3 mb-2">Sreedivya</h3>
-                                <!-- <h5 class="team-post mb-2">CTO - Confidence</h5> -->
-                                <p class="team-description">Recently my dad got hospitalized for gall bladder infection and it had to be removed . We got admitted in pk das . had the most wonderful experience . The doctors of surgical department were too good all the four pioneers ( Dr Josua , Dr Srikanth , Dr ajay , Dr Ramesh ) were there when ever we needed them.</p>
-                               
-                            </div>
-                        </div>
-                        <!-- Single Team -->
-                        <div class="single-team text-center px-3 py-2 m-2">
-                            <!-- Team Photo -->
-                            <div class="team-photo mx-auto">
-                                <img src="images/awesome/testi/1.png" alt="">
-                            </div>
-                            <!-- Team Content -->
-                            <div class="team-content mt-2 mb-1">
-                                <h3 class="team-name mt-3 mb-2">Haris Ismail</h3>
-                                <!-- <h5 class="team-post mb-2">ISO Developer</h5> -->
-                                <p class="team-description">My son got admitted 5 days back , Dr Ravikumar is incredible. Not only has he taken great care of my son health, but also he is lovely to speak with at every appointment and clear all our doubts . It’s rare to find a doctor that combines such personal touches and care for a patient as a person with outstanding quality.</p>
-                               
-                            </div>
-                        </div>
-                        <!-- Single Team -->
-                        <div class="single-team text-center px-3 py-2 m-2">
-                            <!-- Team Photo -->
-                            <div class="team-photo mx-auto">
-                                <img src="images/awesome/testi/1.png" alt="">
-                            </div>
-                            <!-- Team Content -->
-                            <div class="team-content mt-2 mb-1">
-                                <h3 class="team-name mt-3 mb-2">Sudheesh P</h3>
+                                <h3 class="team-name mt-3 mb-2">Srividya</h3>
                                 <!-- <h5 class="team-post mb-2">CEO & Co-Founder</h5> -->
-                                <p class="team-description">One of best hospital in PALAKKAD district near ottapalam town Vaniyamkulam.All type of treatments are available here 24 hour casuality available here staffs are friendly and proactive Syndicate bank and ATM are available inside the hospital compounds.Shoranur railway station distance is nearly 8 km from the hospital.</p>
+                                <p class="team-description">Dandruff has been one of the biggest pains in my life for a long time. Hair fall and constant itching was so severe that many times I wasn’t even able to attend functions! Now all that seems like a distant past after getting successful treatment for dandruff elimination from Awesome clinic.</p>
                               
                             </div>
                         </div>
@@ -363,12 +335,41 @@
                             </div>
                             <!-- Team Content -->
                             <div class="team-content mt-2 mb-1">
-                                <h3 class="team-name mt-3 mb-2">Karthik M</h3>
+                                <h3 class="team-name mt-3 mb-2">Karthik RK</h3>
+                                <!-- <h5 class="team-post mb-2">CTO - Confidence</h5> -->
+                                <p class="team-description">Very thankful for the weight management counselling and treatment at Awesome, it has been a life-changing decision for me. The team advised me on the exact lifestyle changes to be made, kept me focussed and motivated through the entire procedure. Will definitely recommend it to anyone looking to shed some kilos!!.</p>
+                               
+                            </div>
+                        </div>
+                        <!-- Single Team -->
+                        <div class="single-team text-center px-3 py-2 m-2">
+                            <!-- Team Photo -->
+                            <div class="team-photo mx-auto">
+                                <img src="images/awesome/testi/1.png" alt="">
+                            </div>
+                            <!-- Team Content -->
+                            <div class="team-content mt-2 mb-1">
+                                <h3 class="team-name mt-3 mb-2">John J</h3>
                                 <!-- <h5 class="team-post mb-2">CEO- Samsung</h5> -->
-                                <p class="team-description">Hi All!! I would strongly recommend Dr.Ravikumar, paediatrician!!!I very much appreciate everything you have done for my newborn baby!!! You list, you speak with such a gentle voice and takes so much of time to make us realise that you are there with us on each and every second, you act with skill and wisdom.</p>
+                                <p class="team-description">As someone who had been working mostly outdoors in the Gulf, I had numerous skin problems and discolouration due to the heat and intense sunlight. It was on a recent visit that I came to know of the colour complexion treatment at Awesome clinic. After guidance and few counselling sessions, I received successful treatment that has boosted my confidence!</p>
                                 
                             </div>
                         </div>
+                        <!-- Single Team -->
+                        <div class="single-team text-center px-3 py-2 m-2">
+                            <!-- Team Photo -->
+                            <div class="team-photo mx-auto">
+                                <img src="images/awesome/testi/1.png" alt="">
+                            </div>
+                            <!-- Team Content -->
+                            <div class="team-content mt-2 mb-1">
+                                <h3 class="team-name mt-3 mb-2">Ismail P</h3>
+                                <!-- <h5 class="team-post mb-2">ISO Developer</h5> -->
+                                <p class="team-description">I had started experiencing hair fall at a reasonably young age and faced many confidence issues because of the same. Credit goes to the doctors at Awesome for restoring strong hair and bringing back my confidence!</p>
+                               
+                            </div>
+                        </div>
+                        
                     </div>
                 </div>
     </div><!-- container close -->
