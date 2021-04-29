@@ -379,7 +379,7 @@
 </section>
 
 <!-- Emergency section -->
-<section class="emergency-section" style="background:url(images/pathiripala/shape/3.jpg)">
+<section class="emergency-section" style="background-image:url(images/pathiripala/shape/3.jpg)">
     <div class="container">
         <div class="row">
             <div class="col-lg-6 col-md-6">
