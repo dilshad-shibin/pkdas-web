@@ -24,7 +24,7 @@
 <body>
 
 <div class="body_wraper">
-<?php include 'header.php'?>  
+<?php include 'header.php'; ?>  
     
 <div class="clearfix"></div>
 <section>
@@ -36,83 +36,97 @@
 </section>
 
 <section class="cosmet_contesec in_bg">
-<div class="container">
-<div class="row ">
+    <div class="container">
+        <div class="row ">
+            <div class="col-lg-4"> </div>
+            <div class="col-lg-4"> 
+                <a class="com_catebox" href="hair-replacement.php">
+                    <div class="com_cate_img">
+                        <img src="images/gdpt/cosmetology/6.jpg"> 
+                    </div>
+                    <div class="com_cont">
+                        <h4>Hair Replacement </h4>
+                    </div>
+                </a>  
+            </div>  
 
-<div class="col-lg-4"> 
-</div>
+            <div class="col-lg-4"> </div>
 
-<div class="col-lg-4"> 
-<a class="com_catebox" href="hair-replacement.php">
-<div class="com_cate_img"><img src="images/gdpt/cosmetology/6.jpg"> </div>
-<div class="com_cont">
-<h4>Hair Replacement </h4>
-</div>
-</a>  
-</div>  
+        </div>
 
-<div class="col-lg-4"> 
-</div>
-
-</div>
-
-<div class="row ">
-
-<div class="col-lg-4">
-<a class="com_catebox " href="skin-treatment.php">
-<div class="com_cate_img"><img src="images/gdpt/cosmetology/1.jpg"> </div>
-<div class="com_cont">
-<h4>Skin Treatments </h4>
-<ul class="inr_bult">
-<li>Skin Transformation</li> 
-<li>Melasma</li> 
-<li>Hyper Pigmentation</li> 
-<li>Skin Vampire Face Lift</li> 
-</ul>
-</div>
-</a>  
-</div>  
+        <div class="row ">
+            <div class="col-lg-4">
+                <a class="com_catebox " href="skin-treatment.php">
+                    <div class="com_cate_img">
+                        <img src="images/gdpt/cosmetology/1.jpg">
+                    </div>
+                    <div class="com_cont">
+                        <h4>Skin Treatments </h4>
+                        <ul class="inr_bult">
+                            <li>Skin Transformation</li> 
+                            <li>Melasma</li> 
+                            <li>Hyper Pigmentation</li> 
+                            <li>Skin Vampire Face Lift</li> 
+                        </ul>
+                    </div>
+                </a>  
+            </div>  
     
-    <div class="col-lg-4">
-<a class="com_catebox" href="body-treatment.php">
-<div class="com_cate_img"><img src="images/gdpt/cosmetology/2.jpg"> </div>
-<div class="com_cont">
-<h4>Body Treatments </h4>
-<ul class="inr_bult">
-<li>Lipolysis </li> 
-<li>Liposuction</li> 
-<li>Cellulite Reduction</li> 
-<li>Dermabration</li> 
-</ul>
-</div>
-</a>  
-</div> 
+            <div class="col-lg-4">
+                <a class="com_catebox" href="body-treatment.php">
+                    <div class="com_cate_img">
+                        <img src="images/gdpt/cosmetology/2.jpg"> 
+                    </div>
+                    <div class="com_cont">
+                        <h4>Body Treatments </h4>
+                        <ul class="inr_bult">
+                            <li>Lipolysis </li> 
+                            <li>Liposuction</li> 
+                            <li>Cellulite Reduction</li> 
+                            <li>Dermabration</li> 
+                        </ul>
+                    </div>
+                </a>  
+            </div> 
     
-    <div class="col-lg-4">
-<a class="com_catebox" href="hair-treatment.php">
-<div class="com_cate_img"><img src="images/gdpt/cosmetology/3.jpg"> </div>
-<div class="com_cont">
-<h4>Hair Treatments </h4>
-<ul class="inr_bult">
-<li>Hair Transplantation</li> 
-<li>Hair Folitreat</li> 
-<li>Hair PRP</li> 
-<li>Hair Extension</li> 
-</ul>
-</div>
-</a>  
-</div> 
-    
-    
-    
-
-</div>  
-</div>
+            <div class="col-lg-4">
+                <a class="com_catebox" href="hair-treatment.php">
+                    <div class="com_cate_img">
+                        <img src="images/gdpt/cosmetology/3.jpg"> 
+                    </div>
+                    <div class="com_cont">
+                        <h4>Hair Treatments </h4>
+                        <ul class="inr_bult">
+                            <li>Hair Transplantation</li> 
+                            <li>Hair Folitreat</li> 
+                            <li>Hair PRP</li> 
+                            <li>Hair Extension</li> 
+                        </ul>
+                    </div>
+                </a>  
+            </div> 
+        </div> 
+        
+        <div class="row">
+            <div class="col-lg-4"></div>
+            <div class="col-lg-4">
+                <a href="awesome-clinic.php" class="com_catebox">
+                    <div class="com_cate_img com_cate_img2">
+                        <img src="images/awesome/awesome-logo.png"> 
+                    </div>
+                    <div class="com_cont">
+                        <h4>Awesome Clinic </h4>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4"></div>
+        </div>
+    </div>
 </section>
     
 
     
-<?php include 'footer.php'?>     
+<?php include 'footer.php'; ?>     
 
 </div> <!-- bodywrapper-->
     

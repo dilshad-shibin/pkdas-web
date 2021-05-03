@@ -1036,3 +1036,18 @@
         max-width: 250px;
     }
 }
+
+/* New changes */
+
+.top_extramenu>ul>li>a{
+    padding: 15px 10px 15px 5px;
+}
+
+.com_cate_img2{
+    max-width: 100%;
+    background: #eaf4fd;
+}
+
+.com_cate_img2 img{
+    height: 240px;
+}

@@ -79,6 +79,7 @@
                                 </div>
                                 <div class="promo-slider__wrapper-3">
                                     <a class="theme_btn" href="#" data-toggle="modal" data-target="#exampleModalCenter">Make An Appointment</a>
+                                    <a href="tel:+918943221777" class="theme_btn">+91 8943221777</a>
                                 </div>
                             </div>
                         </div>
@@ -194,7 +195,7 @@
                         </svg>
                     </div>
                     <h2>Qualified Doctors</h2>
-                    <p>Highly qualified and vastly experienced medical professionals to attend to all your healthcare needs.</p>
+                    <p>Highly qualified and vastly experienced medical professionals to attend to for all your healthcare needs.</p>
                 </div>
             </div>
             <div class="col-lg-4">
@@ -439,7 +440,7 @@
                         </div>  
                         <strong>Emergency</strong> Medical Care 24/7</h2>
                         <p class="text">Rest assured with access to 24-hour assistance for medical emergencies.</p>
-                        <p class="phone"><a href="tel:9847052455"> <i class="fa fa-phone"></i> 9847052455</a></p>
+                        <!-- <p class="phone"><a href="tel:9847052455"> <i class="fa fa-phone"></i> 9847052455</a></p> -->
                     </div>
                 </div>
             </div>

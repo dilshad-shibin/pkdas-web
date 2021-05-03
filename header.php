@@ -62,11 +62,11 @@
     <li><a href="awards.php">Awards  </a></li>
     <li><a href="javascript:void(0)"> Social Responsibility </a></li>
     <li><a href="infrastructure.php"> Infrastructure  </a></li>
-    <li class="arrow_sub"><a href="#">Clinic</a>
+    <li class="arrow_sub"><a href="#">Multi Speciality Clinic</a>
       <ul>
       <li><a href="pathiripala-clinic.php">Pathiripala</a></li>
       <li><a href="thiruvilwamala-clinic.php">Thiruvilwamala</a></li>
-      <li><a href="awesome-clinic.php">Awesome</a></li>
+      <!-- <li><a href="awesome-clinic.php">Awesome</a></li> -->
       </ul>
     </li>
     <li><a href="24services.php"> <span class="blink_me">24/7 Services</span>  </a></li>
@@ -138,11 +138,11 @@
 <div class="col-lg-10">
 <div class="top_extramenu">
 <ul>
-<li class="arrow_sub"><a href="#">Clinic</a>
+<li class="arrow_sub"><a href="#">Multi Speciality Clinic</a>
 <ul>
 <li><a href="pathiripala-clinic.php">Pathiripala</a></li>
 <li><a href="thiruvilwamala-clinic.php">Thiruvilwamala</a></li>
-<li><a href="awesome-clinic.php">Awesome</a></li>
+<!-- <li><a href="awesome-clinic.php">Awesome</a></li> -->
 </ul>
 </li>
 <li><a href="insurance.php">Insurance</a> </li>
