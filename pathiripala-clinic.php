@@ -275,7 +275,7 @@
                     </div>
                 </a>
             </div>
-            <div class="col-lg-3 col-md-6">
+            <!-- <div class="col-lg-3 col-md-6">
                 <a href="#" data-toggle="modal" data-target="#exampleModalCenter" class="hm_gdpt_item">
                     <div class="hm_gdpt_item_img">
                         <img src="images/pathiripala/services/19.jpg" alt="">
@@ -284,7 +284,7 @@
                         <h4>Inpatient Treatment</h4>
                     </div>
                 </a>
-            </div>
+            </div> -->
             <div class="col-lg-3 col-md-6">
                 <a href="#" data-toggle="modal" data-target="#exampleModalCenter" class="hm_gdpt_item">
                     <div class="hm_gdpt_item_img">

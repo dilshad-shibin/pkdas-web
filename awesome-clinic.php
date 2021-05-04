@@ -289,6 +289,75 @@
     </div>
 </section>
 
+<!-- treatments -->
+<section class="treatments-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="cs_slide_title">
+                    <h3 class="hm_title"> Our Quality Treatments</h3>    
+                    <!-- <div class="custom_nav  navid1 ">
+                        <i class="flaticon-arrow-pointing-to-left prev slick-arrow" style="display: inline-block;"></i>
+                        <i class="flaticon-right next slick-arrow" style="display: inline-block;"></i>
+                    </div> -->
+                </div>  
+            </div>  
+        </div><!-- row close -->
+        <div class="row ">
+            <div class="col-lg-4">
+                <a class="com_catebox " href="skin-treatment.php">
+                    <div class="com_cate_img">
+                        <img src="images/gdpt/cosmetology/1.jpg">
+                    </div>
+                    <div class="com_cont">
+                        <h4>Skin Treatments </h4>
+                        <ul class="inr_bult">
+                            <li>Skin Transformation</li> 
+                            <li>Melasma</li> 
+                            <li>Hyper Pigmentation</li> 
+                            <li>Skin Vampire Face Lift</li> 
+                        </ul>
+                    </div>
+                </a>  
+            </div>  
+    
+            <div class="col-lg-4">
+                <a class="com_catebox" href="body-treatment.php">
+                    <div class="com_cate_img">
+                        <img src="images/gdpt/cosmetology/2.jpg"> 
+                    </div>
+                    <div class="com_cont">
+                        <h4>Body Treatments </h4>
+                        <ul class="inr_bult">
+                            <li>Lipolysis </li> 
+                            <li>Liposuction</li> 
+                            <li>Cellulite Reduction</li> 
+                            <li>Dermabration</li> 
+                        </ul>
+                    </div>
+                </a>  
+            </div> 
+    
+            <div class="col-lg-4">
+                <a class="com_catebox" href="hair-treatment.php">
+                    <div class="com_cate_img">
+                        <img src="images/gdpt/cosmetology/3.jpg"> 
+                    </div>
+                    <div class="com_cont">
+                        <h4>Hair Treatments </h4>
+                        <ul class="inr_bult">
+                            <li>Hair Transplantation</li> 
+                            <li>Hair Folitreat</li> 
+                            <li>Hair PRP</li> 
+                            <li>Hair Extension</li> 
+                        </ul>
+                    </div>
+                </a>  
+            </div> 
+        </div> 
+        </div><!-- container close -->
+</section>
+
 <!-- testimonials -->
 <section class="awesome-testi">
     <div class="container">
